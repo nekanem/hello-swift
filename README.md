@@ -5,6 +5,7 @@ App Description
 Simple swift applicatioon. Allows user to print a custom string, change the text's color, change the color of the backgorund, and reset everything back to it's original state.
 
 App Walk-though
+
 <img src="https://i.imgur.com/p0faR8c.gif" width=200><br>
 
 
