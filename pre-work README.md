@@ -6,7 +6,7 @@ Simple swift applicatioon. Allows user to print a custom string, change the text
 
 App Walk-though
 
-<img src="https://i.imgur.com/p0faR8c.gif" width=200><br>
+<img src="https://i.imgur.com/s1V1KHp.gif" width=200><br>
 
 
 Required User Stories
